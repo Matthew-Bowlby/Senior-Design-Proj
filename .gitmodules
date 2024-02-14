@@ -1,0 +1,6 @@
+[submodule "ISM-Embedded"]
+	path = ISM-Embedded
+	url = https://github.com/Matthew-Bowlby/ISM-Embedded.git
+[submodule "ISM-App"]
+	path = ISM-App
+	url = https://github.com/Matthew-Bowlby/ISM-App.git
