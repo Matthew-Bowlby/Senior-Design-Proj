@@ -4,3 +4,6 @@
 [submodule "ISM-App"]
 	path = ISM-App
 	url = https://github.com/Matthew-Bowlby/ISM-App.git
+[submodule "ISM-FR"]
+	path = ISM-FR
+	url = https://github.com/Matthew-Bowlby/ISM-FR.git
